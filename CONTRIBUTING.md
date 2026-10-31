@@ -115,7 +115,7 @@ git remote -v
 origin https://github.com/TU-USUARIO/ChuspaPulse.git (fetch)
 origin https://github.com/TU-USUARIO/ChuspaPulse.git (push)
 upstream https://github.com/sis-inf/ChuspaPulse.git (fetch)
-upstream https://github.com/sis-inf/puslo.git (push)
+upstream https://github.com/sis-inf/ChuspaPulse.git (push)
 ```
 Asegúrate de que te aparezca en **origin** tu nombre de usuario en el apartado ***TU-USUARIO***, mientras que en **upstream** el nombre de ***sis-inf***. 
 
@@ -381,7 +381,7 @@ git remote -v
 origin https://github.com/TU-USUARIO/ChuspaPulse.git (fetch)
 origin https://github.com/TU-USUARIO/ChuspaPulse.git (push)
 upstream https://github.com/sis-inf/ChuspaPulse.git (fetch)
-upstream https://github.com/sis-inf/puslo.git (push)
+upstream https://github.com/sis-inf/ChuspaPulse.git (push)
 ```
 Asegúrate de que te aparezca en **origin** tu nombre de usuario en el apartado ***TU-USUARIO***, mientras que en **upstream** el nombre de ***sis-inf***. 
 
